@@ -1,0 +1,5 @@
+{{#user}}
+Name: Kirtiman SIngh
+Skills: HTML, CSS, JS, Next.js
+Email: kirtiman7771@gmail.com 
+{{/user}}
