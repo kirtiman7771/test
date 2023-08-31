@@ -50,3 +50,4 @@ function setTheme(theme) {
 
     localStorage.setItem('theme', theme);
 }
+
